@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('../fonts/SpaceGrotesk-Medium.ttf');
+}
+.visa-card{
+    background-image:url('../images/bg-card-front.png');
+    background-size: cover;
+    background-position: center;
+    width: 447px;
+    height: 245px;
+    border-radius: 10px;
+    transform: translate(164px, -778px);
+  }
+  .icon1{
+    margin-left: 32px;
+    margin-top: 28px;
+  }
+  .inputNumber{
+    margin-top:64px;
+    margin-left:32px;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 35.73px;
+    color: #FFFFFF;
+    letter-spacing: 3.42px;
+    font-family: 'Space Grotesk';
+  }
+  .inputName{
+    margin-top: 25.5px;
+    margin-left: 32px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.86px;
+    letter-spacing: 2px;
+    font-family: 'Space Grotesk';
+    color: #FFFFFF;
+  }
+  .inputData{
+    margin-left: 366px;
+    margin-top:-18.5px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.86px;
+    letter-spacing: 2px;
+    font-family: 'Space Grotesk';
+    color: #FFFFFF;
+    
+  }
+  .visa-card-back{
+    background-image:url('../images/bg-card-back.png');
+    background-size: cover;
+    background-position: center;
+    width: 447px;
+    height: 245px;
+    border-radius: 10px;
+    transform: translate(258px, -741px);
+  }
+
+  .inputCvc{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.86px;
+    letter-spacing: 2px;
+    font-family: 'Space Grotesk';
+    color: #FFFFFF;
+    padding-top: 111px;
+    padding-left:358px;
+  }
+
+.mainc-background{
+    background-image:url('../images/bg-main-desktop.png');
+    background-size: cover;
+    background-position: center;
+    width: 483px;
+    height: 100vh;
+}
+  

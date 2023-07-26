@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('../fonts/SpaceGrotesk-Medium.ttf');
+  }
+
+.main-thankyou{
+    width: 381px;
+    height: 291px;
+    margin-top:305px;
+    margin-left: 600px;
+}
+
+.icon2{
+    margin-left: 150px;
+}
+
+.thankyou-text1{
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 35.73px;
+    letter-spacing: 3.42px;
+    color: #21092F;
+    font-family: 'Space Grotesk';
+    margin-top: 35px;
+    margin-left: 97px;
+}
+
+.thankyou-text2{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22.97px;
+    color: #8F8694;
+    font-family: 'Space Grotesk';
+    margin-top: 16px;
+    margin-left: 59px;
+}
+
+.thankyou-button{
+    width:381px;
+    height:53px;
+    border-radius: 8px;
+    background-color:#21092F;
+    color:#FFFFFF;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22.97px;
+    font-family: 'Space Grotesk';
+    margin-top: 46px;
+}
